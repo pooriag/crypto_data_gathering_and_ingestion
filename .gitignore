@@ -1,2 +1,4 @@
 ./venv/*
 venv/
+buffer_recovery.jsonl
+execution_info.log
